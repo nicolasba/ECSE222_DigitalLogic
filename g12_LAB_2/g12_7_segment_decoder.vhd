@@ -1,12 +1,3 @@
--- ECSE 221-222 Lab #2 
--- g12_7_segment_decoder
--- Student Name: Alexandra Zajda
--- Student ID: 260807517
--- Student Name: Nicolas Barreyro
--- Student ID: 260730549
--- Student Name: Gorkem Yalcinoz
--- Student ID: 260710053
-
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;

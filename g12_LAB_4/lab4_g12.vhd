@@ -1,11 +1,3 @@
--- ECSE 221-222 Lab #3
--- 8-bit adder and substractor
--- Student Name: Nicolas Barreyro
--- Student ID: 260730549
--- Student Name: Gorkem Yalcinoz
--- Student ID: 260710053
--- Student Name: Alexandra Zajda
--- Student ID: 260807517
 library ieee;
 use ieee.std_logic_1164.all;
 library work;

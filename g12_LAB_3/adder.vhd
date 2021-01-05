@@ -1,10 +1,3 @@
--- 8-bit adder
--- Student Name: Nicolas Barreyro
--- Student ID: 260730549
--- Student Name: Gorkem Yalcinoz
--- Student ID: 260710053
--- Student Name: Alexandra Zajda
--- Student ID: 260807517
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all; 

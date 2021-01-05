@@ -1,12 +1,4 @@
--- ECSE 221-222 Lab #1 
--- g12_1_bit_Adder_Subtractor
--- Student Name: Alexandra Zajda
--- Student ID: 260807517
--- Student Name: Nicholas Barreyro
--- Student ID: 260730549
--- Sudent Name Gorkem Yalcinoz
--- Student ID: 260710053 
--- GROUP 12
+
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all; 

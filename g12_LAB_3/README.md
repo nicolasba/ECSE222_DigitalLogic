@@ -1,2 +1,2 @@
 ### Lab 3
-Designing 8-bit full adder and 8-bit subtractor.
+Implementing 8-bit full adder and 8-bit subtractor on an Altera board.
